@@ -1,0 +1,1051 @@
+D:\Cshap prje\proje\GeoEtrim\GeoEtrim\bin\x64\Debug\cvextern.dll
+D:\Cshap prje\proje\GeoEtrim\GeoEtrim\bin\x64\Debug\msvcp140.dll
+D:\Cshap prje\proje\GeoEtrim\GeoEtrim\bin\x64\Debug\opencv_ffmpeg310_64.dll
+D:\Cshap prje\proje\GeoEtrim\GeoEtrim\bin\x64\Debug\vcruntime140.dll
+D:\Cshap prje\proje\GeoEtrim\GeoEtrim\bin\x64\Debug\GeoEtrim.exe.config
+D:\Cshap prje\proje\GeoEtrim\GeoEtrim\bin\x64\Debug\GeoEtrim.exe.manifest
+D:\Cshap prje\proje\GeoEtrim\GeoEtrim\bin\x64\Debug\GeoEtrim.exe
+D:\Cshap prje\proje\GeoEtrim\GeoEtrim\bin\x64\Debug\GeoEtrim.pdb
+D:\Cshap prje\proje\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2010.dll
+D:\Cshap prje\proje\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2012.dll
+D:\Cshap prje\proje\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2013.dll
+D:\Cshap prje\proje\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2015.dll
+D:\Cshap prje\proje\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2017.dll
+D:\Cshap prje\proje\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.UI.dll
+D:\Cshap prje\proje\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.UI.GL.dll
+D:\Cshap prje\proje\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.World.dll
+D:\Cshap prje\proje\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.Aruco.exe
+D:\Cshap prje\proje\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.CameraCapture.exe
+D:\Cshap prje\proje\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.FaceDetection.exe
+D:\Cshap prje\proje\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.FeatureMatching.exe
+D:\Cshap prje\proje\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.FeatureMatching.vshost.exe
+D:\Cshap prje\proje\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.HelloWorld.exe
+D:\Cshap prje\proje\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.LicensePlateRecognition.exe
+D:\Cshap prje\proje\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.MotionDetection.exe
+D:\Cshap prje\proje\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.OCR.exe
+D:\Cshap prje\proje\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.PedestrianDetection.exe
+D:\Cshap prje\proje\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.PlanarSubdivision.exe
+D:\Cshap prje\proje\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.ShapeDetection.exe
+D:\Cshap prje\proje\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.Simple3DReconstruction.exe
+D:\Cshap prje\proje\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.TrafficSignRecognition.exe
+D:\Cshap prje\proje\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.VideoSurveilance.exe
+D:\Cshap prje\proje\GeoEtrim\GeoEtrim\bin\x64\Debug\gdalconst_csharp.dll
+D:\Cshap prje\proje\GeoEtrim\GeoEtrim\bin\x64\Debug\gdal_csharp.dll
+D:\Cshap prje\proje\GeoEtrim\GeoEtrim\bin\x64\Debug\ogr_csharp.dll
+D:\Cshap prje\proje\GeoEtrim\GeoEtrim\bin\x64\Debug\osr_csharp.dll
+D:\Cshap prje\proje\GeoEtrim\GeoEtrim\bin\x64\Debug\ZedGraph.dll
+D:\Cshap prje\proje\GeoEtrim\GeoEtrim\bin\x64\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+D:\Cshap prje\proje\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.UI.xml
+D:\Cshap prje\proje\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.UI.GL.xml
+D:\Cshap prje\proje\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.World.xml
+D:\Cshap prje\proje\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.FeatureMatching.pdb
+D:\Cshap prje\proje\GeoEtrim\GeoEtrim\bin\x64\Debug\ZedGraph.xml
+D:\Cshap prje\proje\GeoEtrim\GeoEtrim\bin\x64\Debug\zh-CN\ZedGraph.resources.dll
+D:\Cshap prje\proje\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.csproj.GeoEtrim.exe.config
+D:\Cshap prje\proje\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.Form1.resources
+D:\Cshap prje\proje\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.formgcp.resources
+D:\Cshap prje\proje\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.New_Canves.resources
+D:\Cshap prje\proje\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.processbarform.resources
+D:\Cshap prje\proje\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.Properties.Resources.resources
+D:\Cshap prje\proje\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.txt_points.resources
+D:\Cshap prje\proje\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.csproj.GenerateResource.Cache
+D:\Cshap prje\proje\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.csproj.CoreCompileInputs.cache
+D:\Cshap prje\proje\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.exe.manifest
+D:\Cshap prje\proje\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.exe
+D:\Cshap prje\proje\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.pdb
+C:\Users\Tubitakpc\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\GeoEtrim.exe.config
+C:\Users\Tubitakpc\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.exe
+C:\Users\Tubitakpc\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.pdb
+C:\Users\Tubitakpc\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\cvextern.dll
+C:\Users\Tubitakpc\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\msvcp140.dll
+C:\Users\Tubitakpc\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\opencv_ffmpeg310_64.dll
+C:\Users\Tubitakpc\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\vcruntime140.dll
+C:\Users\Tubitakpc\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\GeoEtrim.exe.manifest
+C:\Users\Tubitakpc\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\GeoEtrim.exe
+C:\Users\Tubitakpc\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\GeoEtrim.pdb
+C:\Users\Tubitakpc\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2010.dll
+C:\Users\Tubitakpc\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2012.dll
+C:\Users\Tubitakpc\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2013.dll
+C:\Users\Tubitakpc\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2015.dll
+C:\Users\Tubitakpc\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2017.dll
+C:\Users\Tubitakpc\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.UI.dll
+C:\Users\Tubitakpc\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.UI.GL.dll
+C:\Users\Tubitakpc\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.World.dll
+C:\Users\Tubitakpc\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.Aruco.exe
+C:\Users\Tubitakpc\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.CameraCapture.exe
+C:\Users\Tubitakpc\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.FaceDetection.exe
+C:\Users\Tubitakpc\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.FeatureMatching.exe
+C:\Users\Tubitakpc\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.FeatureMatching.vshost.exe
+C:\Users\Tubitakpc\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.HelloWorld.exe
+C:\Users\Tubitakpc\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.LicensePlateRecognition.exe
+C:\Users\Tubitakpc\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.MotionDetection.exe
+C:\Users\Tubitakpc\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.OCR.exe
+C:\Users\Tubitakpc\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.PedestrianDetection.exe
+C:\Users\Tubitakpc\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.PlanarSubdivision.exe
+C:\Users\Tubitakpc\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.ShapeDetection.exe
+C:\Users\Tubitakpc\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.Simple3DReconstruction.exe
+C:\Users\Tubitakpc\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.TrafficSignRecognition.exe
+C:\Users\Tubitakpc\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.VideoSurveilance.exe
+C:\Users\Tubitakpc\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\gdalconst_csharp.dll
+C:\Users\Tubitakpc\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\gdal_csharp.dll
+C:\Users\Tubitakpc\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\ogr_csharp.dll
+C:\Users\Tubitakpc\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\osr_csharp.dll
+C:\Users\Tubitakpc\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\ZedGraph.dll
+C:\Users\Tubitakpc\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\Tubitakpc\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.UI.xml
+C:\Users\Tubitakpc\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.UI.GL.xml
+C:\Users\Tubitakpc\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.World.xml
+C:\Users\Tubitakpc\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.FeatureMatching.pdb
+C:\Users\Tubitakpc\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\ZedGraph.xml
+C:\Users\Tubitakpc\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\zh-CN\ZedGraph.resources.dll
+C:\Users\Tubitakpc\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.csprojResolveAssemblyReference.cache
+C:\Users\Tubitakpc\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.csproj.GeoEtrim.exe.config
+C:\Users\Tubitakpc\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.Form1.resources
+C:\Users\Tubitakpc\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.formgcp.resources
+C:\Users\Tubitakpc\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.New_Canves.resources
+C:\Users\Tubitakpc\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.processbarform.resources
+C:\Users\Tubitakpc\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.Properties.Resources.resources
+C:\Users\Tubitakpc\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.txt_points.resources
+C:\Users\Tubitakpc\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.csproj.GenerateResource.Cache
+C:\Users\Tubitakpc\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.exe.manifest
+C:\Users\Tubitakpc\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.GeoTrans.resources
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\cvextern.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\msvcp140.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\opencv_ffmpeg310_64.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\vcruntime140.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\GeoEtrim.exe.config
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\GeoEtrim.exe.manifest
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\GeoEtrim.exe
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\GeoEtrim.pdb
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2010.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2012.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2013.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2015.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2017.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.UI.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.UI.GL.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.World.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.Aruco.exe
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.CameraCapture.exe
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.FaceDetection.exe
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.FeatureMatching.exe
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.FeatureMatching.vshost.exe
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.HelloWorld.exe
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.LicensePlateRecognition.exe
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.MotionDetection.exe
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.OCR.exe
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.PedestrianDetection.exe
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.PlanarSubdivision.exe
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.ShapeDetection.exe
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.Simple3DReconstruction.exe
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.TrafficSignRecognition.exe
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.VideoSurveilance.exe
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\gdalconst_csharp.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\gdal_csharp.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\ogr_csharp.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\osr_csharp.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\ZedGraph.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.UI.xml
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.UI.GL.xml
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.World.xml
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.FeatureMatching.pdb
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\ZedGraph.xml
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\zh-CN\ZedGraph.resources.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.csprojResolveAssemblyReference.cache
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.csproj.GeoEtrim.exe.config
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.Form1.resources
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.formgcp.resources
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.GeoTrans.resources
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.New_Canves.resources
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.processbarform.resources
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.Properties.Resources.resources
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.txt_points.resources
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.csproj.GenerateResource.Cache
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.csproj.CoreCompileInputs.cache
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.exe.manifest
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.exe
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.pdb
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.text_read.resources
+C:\Users\Tubitakpc\Dropbox\tezim\etrim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.text_read.resources
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\bin\x64\Debug\cvextern.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\bin\x64\Debug\msvcp140.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\bin\x64\Debug\opencv_ffmpeg310_64.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\bin\x64\Debug\vcruntime140.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\bin\x64\Debug\GeoEtrim.exe.config
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\bin\x64\Debug\GeoEtrim.exe.manifest
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\bin\x64\Debug\GeoEtrim.exe
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\bin\x64\Debug\GeoEtrim.pdb
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2010.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2012.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2013.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2015.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2017.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.UI.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.UI.GL.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.World.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.Aruco.exe
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.CameraCapture.exe
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.FaceDetection.exe
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.FeatureMatching.exe
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.FeatureMatching.vshost.exe
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.HelloWorld.exe
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.LicensePlateRecognition.exe
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.MotionDetection.exe
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.OCR.exe
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.PedestrianDetection.exe
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.PlanarSubdivision.exe
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.ShapeDetection.exe
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.Simple3DReconstruction.exe
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.TrafficSignRecognition.exe
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.VideoSurveilance.exe
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\bin\x64\Debug\gdalconst_csharp.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\bin\x64\Debug\gdal_csharp.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\bin\x64\Debug\ogr_csharp.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\bin\x64\Debug\osr_csharp.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\bin\x64\Debug\ZedGraph.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.UI.xml
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.UI.GL.xml
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.World.xml
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.FeatureMatching.pdb
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\bin\x64\Debug\ZedGraph.xml
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\bin\x64\Debug\zh-CN\ZedGraph.resources.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.csprojResolveAssemblyReference.cache
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.csproj.GeoEtrim.exe.config
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.Form1.resources
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.formgcp.resources
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.GeoTrans.resources
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.New_Canves.resources
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.processbarform.resources
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.Properties.Resources.resources
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.text_read.resources
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.txt_points.resources
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.csproj.GenerateResource.Cache
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.csproj.CoreCompileInputs.cache
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.exe.manifest
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.exe
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.pdb
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\bin\x64\Debug\cvextern.dll
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\bin\x64\Debug\msvcp140.dll
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\bin\x64\Debug\opencv_ffmpeg310_64.dll
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\bin\x64\Debug\vcruntime140.dll
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\bin\x64\Debug\GeoEtrim.exe.config
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\bin\x64\Debug\GeoEtrim.exe.manifest
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\bin\x64\Debug\GeoEtrim.exe
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\bin\x64\Debug\GeoEtrim.pdb
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2010.dll
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2012.dll
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2013.dll
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2015.dll
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2017.dll
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.UI.dll
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.UI.GL.dll
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.World.dll
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.Aruco.exe
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.CameraCapture.exe
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.FaceDetection.exe
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.FeatureMatching.exe
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.FeatureMatching.vshost.exe
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.HelloWorld.exe
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.LicensePlateRecognition.exe
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.MotionDetection.exe
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.OCR.exe
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.PedestrianDetection.exe
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.PlanarSubdivision.exe
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.ShapeDetection.exe
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.Simple3DReconstruction.exe
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.TrafficSignRecognition.exe
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.VideoSurveilance.exe
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\bin\x64\Debug\gdalconst_csharp.dll
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\bin\x64\Debug\gdal_csharp.dll
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\bin\x64\Debug\ogr_csharp.dll
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\bin\x64\Debug\osr_csharp.dll
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\bin\x64\Debug\ZedGraph.dll
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.UI.xml
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.UI.GL.xml
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.World.xml
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.FeatureMatching.pdb
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\bin\x64\Debug\ZedGraph.xml
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\bin\x64\Debug\zh-CN\ZedGraph.resources.dll
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.csprojResolveAssemblyReference.cache
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.csproj.GeoEtrim.exe.config
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.Form1.resources
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.formgcp.resources
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.GeoTrans.resources
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.New_Canves.resources
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.processbarform.resources
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.Properties.Resources.resources
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.text_read.resources
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.txt_points.resources
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.csproj.GenerateResource.Cache
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.exe.manifest
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.exe
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.pdb
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\bin\x64\Debug\cvextern.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\bin\x64\Debug\msvcp140.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\bin\x64\Debug\opencv_ffmpeg310_64.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\bin\x64\Debug\vcruntime140.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\bin\x64\Debug\GeoEtrim.exe.config
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\bin\x64\Debug\GeoEtrim.exe.manifest
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\bin\x64\Debug\GeoEtrim.exe
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\bin\x64\Debug\GeoEtrim.pdb
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2010.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2012.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2013.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2015.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2017.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.UI.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.UI.GL.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.World.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.Aruco.exe
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.CameraCapture.exe
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.FaceDetection.exe
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.FeatureMatching.exe
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.FeatureMatching.vshost.exe
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.HelloWorld.exe
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.LicensePlateRecognition.exe
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.MotionDetection.exe
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.OCR.exe
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.PedestrianDetection.exe
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.PlanarSubdivision.exe
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.ShapeDetection.exe
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.Simple3DReconstruction.exe
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.TrafficSignRecognition.exe
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.VideoSurveilance.exe
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\bin\x64\Debug\gdalconst_csharp.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\bin\x64\Debug\gdal_csharp.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\bin\x64\Debug\ogr_csharp.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\bin\x64\Debug\osr_csharp.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\bin\x64\Debug\ZedGraph.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\bin\x64\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.UI.xml
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.UI.GL.xml
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.World.xml
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.FeatureMatching.pdb
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\bin\x64\Debug\ZedGraph.xml
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\bin\x64\Debug\zh-CN\ZedGraph.resources.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.csprojResolveAssemblyReference.cache
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.exe.config
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.Form1.resources
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.formgcp.resources
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.GeoTrans.resources
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.New_Canves.resources
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.processbarform.resources
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.Properties.Resources.resources
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.text_read.resources
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.txt_points.resources
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.csproj.GenerateResource.Cache
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.csproj.CoreCompileInputs.cache
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.exe.manifest
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.exe
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.pdb
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.points_view.resources
+C:\Users\Tubitakpc\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\bin\x64\Debug\GeoEtrim.exe.config
+C:\Users\Tubitakpc\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.exe
+C:\Users\Tubitakpc\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.pdb
+C:\Users\Tubitakpc\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\bin\x64\Debug\cvextern.dll
+C:\Users\Tubitakpc\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\bin\x64\Debug\msvcp140.dll
+C:\Users\Tubitakpc\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\bin\x64\Debug\opencv_ffmpeg310_64.dll
+C:\Users\Tubitakpc\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\bin\x64\Debug\vcruntime140.dll
+C:\Users\Tubitakpc\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\bin\x64\Debug\GeoEtrim.exe.manifest
+C:\Users\Tubitakpc\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\bin\x64\Debug\GeoEtrim.exe
+C:\Users\Tubitakpc\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\bin\x64\Debug\GeoEtrim.pdb
+C:\Users\Tubitakpc\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2010.dll
+C:\Users\Tubitakpc\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2012.dll
+C:\Users\Tubitakpc\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2013.dll
+C:\Users\Tubitakpc\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2015.dll
+C:\Users\Tubitakpc\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2017.dll
+C:\Users\Tubitakpc\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.UI.dll
+C:\Users\Tubitakpc\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.UI.GL.dll
+C:\Users\Tubitakpc\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.World.dll
+C:\Users\Tubitakpc\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.Aruco.exe
+C:\Users\Tubitakpc\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.CameraCapture.exe
+C:\Users\Tubitakpc\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.FaceDetection.exe
+C:\Users\Tubitakpc\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.FeatureMatching.exe
+C:\Users\Tubitakpc\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.FeatureMatching.vshost.exe
+C:\Users\Tubitakpc\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.HelloWorld.exe
+C:\Users\Tubitakpc\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.LicensePlateRecognition.exe
+C:\Users\Tubitakpc\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.MotionDetection.exe
+C:\Users\Tubitakpc\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.OCR.exe
+C:\Users\Tubitakpc\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.PedestrianDetection.exe
+C:\Users\Tubitakpc\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.PlanarSubdivision.exe
+C:\Users\Tubitakpc\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.ShapeDetection.exe
+C:\Users\Tubitakpc\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.Simple3DReconstruction.exe
+C:\Users\Tubitakpc\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.TrafficSignRecognition.exe
+C:\Users\Tubitakpc\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.VideoSurveilance.exe
+C:\Users\Tubitakpc\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\bin\x64\Debug\gdalconst_csharp.dll
+C:\Users\Tubitakpc\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\bin\x64\Debug\gdal_csharp.dll
+C:\Users\Tubitakpc\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\bin\x64\Debug\ogr_csharp.dll
+C:\Users\Tubitakpc\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\bin\x64\Debug\osr_csharp.dll
+C:\Users\Tubitakpc\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\bin\x64\Debug\ZedGraph.dll
+C:\Users\Tubitakpc\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\bin\x64\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\Tubitakpc\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.UI.xml
+C:\Users\Tubitakpc\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.UI.GL.xml
+C:\Users\Tubitakpc\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.World.xml
+C:\Users\Tubitakpc\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.FeatureMatching.pdb
+C:\Users\Tubitakpc\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\bin\x64\Debug\ZedGraph.xml
+C:\Users\Tubitakpc\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\bin\x64\Debug\zh-CN\ZedGraph.resources.dll
+C:\Users\Tubitakpc\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.csprojResolveAssemblyReference.cache
+C:\Users\Tubitakpc\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.csproj.GeoEtrim.exe.config
+C:\Users\Tubitakpc\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.Form1.resources
+C:\Users\Tubitakpc\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.formgcp.resources
+C:\Users\Tubitakpc\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.GeoTrans.resources
+C:\Users\Tubitakpc\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.New_Canves.resources
+C:\Users\Tubitakpc\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.points_view.resources
+C:\Users\Tubitakpc\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.processbarform.resources
+C:\Users\Tubitakpc\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.Properties.Resources.resources
+C:\Users\Tubitakpc\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.text_read.resources
+C:\Users\Tubitakpc\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.txt_points.resources
+C:\Users\Tubitakpc\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.csproj.GenerateResource.Cache
+C:\Users\Tubitakpc\Dropbox\tezim\etrim2\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.exe.manifest
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\cvextern.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\msvcp140.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\opencv_ffmpeg310_64.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\vcruntime140.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\GeoEtrim.exe.config
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\GeoEtrim.exe
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\GeoEtrim.pdb
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2010.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2012.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2013.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2015.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2017.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.UI.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.UI.GL.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.World.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.Aruco.exe
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.CameraCapture.exe
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.FaceDetection.exe
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.FeatureMatching.exe
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.FeatureMatching.vshost.exe
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.HelloWorld.exe
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.LicensePlateRecognition.exe
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.MotionDetection.exe
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.OCR.exe
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.PedestrianDetection.exe
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.PlanarSubdivision.exe
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.ShapeDetection.exe
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.Simple3DReconstruction.exe
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.TrafficSignRecognition.exe
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.VideoSurveilance.exe
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\gdalconst_csharp.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\gdal_csharp.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\ogr_csharp.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\osr_csharp.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\ZedGraph.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.UI.xml
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.UI.GL.xml
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.World.xml
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.FeatureMatching.pdb
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\ZedGraph.xml
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\zh-CN\ZedGraph.resources.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.csprojResolveAssemblyReference.cache
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.exe.config
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.Form1.resources
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.formgcp.resources
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.GeoTrans.resources
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.New_Canves.resources
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.points_view.resources
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.processbarform.resources
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.Properties.Resources.resources
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.text_read.resources
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.txt_points.resources
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.csproj.GenerateResource.Cache
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.csproj.CoreCompileInputs.cache
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.exe
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.pdb
+D:\Cshap prje\Etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\cvextern.dll
+D:\Cshap prje\Etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\msvcp140.dll
+D:\Cshap prje\Etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\opencv_ffmpeg310_64.dll
+D:\Cshap prje\Etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\vcruntime140.dll
+D:\Cshap prje\Etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\GeoEtrim.exe.config
+D:\Cshap prje\Etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\GeoEtrim.exe.manifest
+D:\Cshap prje\Etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\GeoEtrim.exe
+D:\Cshap prje\Etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\GeoEtrim.pdb
+D:\Cshap prje\Etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2010.dll
+D:\Cshap prje\Etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2012.dll
+D:\Cshap prje\Etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2013.dll
+D:\Cshap prje\Etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2015.dll
+D:\Cshap prje\Etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2017.dll
+D:\Cshap prje\Etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.UI.dll
+D:\Cshap prje\Etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.UI.GL.dll
+D:\Cshap prje\Etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.World.dll
+D:\Cshap prje\Etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.Aruco.exe
+D:\Cshap prje\Etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.CameraCapture.exe
+D:\Cshap prje\Etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.FaceDetection.exe
+D:\Cshap prje\Etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.FeatureMatching.exe
+D:\Cshap prje\Etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.FeatureMatching.vshost.exe
+D:\Cshap prje\Etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.HelloWorld.exe
+D:\Cshap prje\Etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.LicensePlateRecognition.exe
+D:\Cshap prje\Etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.MotionDetection.exe
+D:\Cshap prje\Etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.OCR.exe
+D:\Cshap prje\Etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.PedestrianDetection.exe
+D:\Cshap prje\Etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.PlanarSubdivision.exe
+D:\Cshap prje\Etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.ShapeDetection.exe
+D:\Cshap prje\Etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.Simple3DReconstruction.exe
+D:\Cshap prje\Etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.TrafficSignRecognition.exe
+D:\Cshap prje\Etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.VideoSurveilance.exe
+D:\Cshap prje\Etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\gdalconst_csharp.dll
+D:\Cshap prje\Etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\gdal_csharp.dll
+D:\Cshap prje\Etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\ogr_csharp.dll
+D:\Cshap prje\Etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\osr_csharp.dll
+D:\Cshap prje\Etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\ZedGraph.dll
+D:\Cshap prje\Etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+D:\Cshap prje\Etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.UI.xml
+D:\Cshap prje\Etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.UI.GL.xml
+D:\Cshap prje\Etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.World.xml
+D:\Cshap prje\Etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.FeatureMatching.pdb
+D:\Cshap prje\Etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\ZedGraph.xml
+D:\Cshap prje\Etrim\GeoEtrim\GeoEtrim\bin\x64\Debug\zh-CN\ZedGraph.resources.dll
+D:\Cshap prje\Etrim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.csprojResolveAssemblyReference.cache
+D:\Cshap prje\Etrim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.exe.config
+D:\Cshap prje\Etrim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.Form1.resources
+D:\Cshap prje\Etrim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.formgcp.resources
+D:\Cshap prje\Etrim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.GeoTrans.resources
+D:\Cshap prje\Etrim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.New_Canves.resources
+D:\Cshap prje\Etrim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.open.resources
+D:\Cshap prje\Etrim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.points_view.resources
+D:\Cshap prje\Etrim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.processbarform.resources
+D:\Cshap prje\Etrim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.Properties.Resources.resources
+D:\Cshap prje\Etrim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.text_read.resources
+D:\Cshap prje\Etrim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.txt_points.resources
+D:\Cshap prje\Etrim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.csproj.GenerateResource.Cache
+D:\Cshap prje\Etrim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.csproj.CoreCompileInputs.cache
+D:\Cshap prje\Etrim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.exe.manifest
+D:\Cshap prje\Etrim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.exe
+D:\Cshap prje\Etrim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.pdb
+D:\Cshap prje\Etrim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.About.resources
+D:\Cshap prje\Etrim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.Terms.resources
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.About.resources
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.open.resources
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.Terms.resources
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\cvextern.dll
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\msvcp140.dll
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\opencv_ffmpeg310_64.dll
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\vcruntime140.dll
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\GeoEtrim.exe.config
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\GeoEtrim.exe
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\GeoEtrim.pdb
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2010.dll
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2012.dll
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2013.dll
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2015.dll
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2017.dll
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.UI.dll
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.UI.GL.dll
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.World.dll
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.Aruco.exe
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.CameraCapture.exe
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.FaceDetection.exe
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.FeatureMatching.exe
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.FeatureMatching.vshost.exe
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.HelloWorld.exe
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.LicensePlateRecognition.exe
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.MotionDetection.exe
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.OCR.exe
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.PedestrianDetection.exe
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.PlanarSubdivision.exe
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.ShapeDetection.exe
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.Simple3DReconstruction.exe
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.TrafficSignRecognition.exe
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.VideoSurveilance.exe
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\gdalconst_csharp.dll
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\gdal_csharp.dll
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\ogr_csharp.dll
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\osr_csharp.dll
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\ZedGraph.dll
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.UI.xml
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.UI.GL.xml
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.World.xml
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.FeatureMatching.pdb
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\ZedGraph.xml
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\zh-CN\ZedGraph.resources.dll
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.csprojResolveAssemblyReference.cache
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.csproj.GeoEtrim.exe.config
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.About.resources
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.Form1.resources
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.formgcp.resources
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.GeoTrans.resources
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.New_Canves.resources
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.open.resources
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.points_view.resources
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.processbarform.resources
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.Properties.Resources.resources
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.Terms.resources
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.text_read.resources
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.txt_points.resources
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.csproj.GenerateResource.Cache
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.exe
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.pdb
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.Register.resources
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\cvextern.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\msvcp140.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\opencv_ffmpeg310_64.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\vcruntime140.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\GeoEtrim.exe.config
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\GeoEtrim.exe
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\GeoEtrim.pdb
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2010.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2012.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2013.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2015.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2017.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.UI.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.UI.GL.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.World.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.Aruco.exe
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.CameraCapture.exe
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.FaceDetection.exe
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.FeatureMatching.exe
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.FeatureMatching.vshost.exe
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.HelloWorld.exe
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.LicensePlateRecognition.exe
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.MotionDetection.exe
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.OCR.exe
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.PedestrianDetection.exe
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.PlanarSubdivision.exe
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.ShapeDetection.exe
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.Simple3DReconstruction.exe
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.TrafficSignRecognition.exe
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.VideoSurveilance.exe
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\gdalconst_csharp.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\gdal_csharp.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\ogr_csharp.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\osr_csharp.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\ZedGraph.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.UI.xml
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.UI.GL.xml
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.World.xml
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.FeatureMatching.pdb
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\ZedGraph.xml
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\zh-CN\ZedGraph.resources.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.csprojResolveAssemblyReference.cache
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.exe.config
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.About.resources
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.Form1.resources
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.formgcp.resources
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.GeoTrans.resources
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.New_Canves.resources
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.open.resources
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.points_view.resources
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.processbarform.resources
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.Properties.Resources.resources
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.Register.resources
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.Terms.resources
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.text_read.resources
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.txt_points.resources
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.csproj.GenerateResource.Cache
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.csproj.CoreCompileInputs.cache
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.exe
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.pdb
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.Register.resources
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.message_form.resources
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.message_form.resources
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\OpenTK.GLControl.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\OpenTK.dll
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\OpenTK.GLControl.dll
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\OpenTK.dll
+D:\Topan\GeoEtrim\GeoEtrim\bin\x64\Debug\GeoEtrim.exe.config
+D:\Topan\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.exe
+D:\Topan\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.pdb
+D:\Topan\GeoEtrim\GeoEtrim\bin\x64\Debug\cvextern.dll
+D:\Topan\GeoEtrim\GeoEtrim\bin\x64\Debug\msvcp140.dll
+D:\Topan\GeoEtrim\GeoEtrim\bin\x64\Debug\opencv_ffmpeg310_64.dll
+D:\Topan\GeoEtrim\GeoEtrim\bin\x64\Debug\vcruntime140.dll
+D:\Topan\GeoEtrim\GeoEtrim\bin\x64\Debug\GeoEtrim.exe
+D:\Topan\GeoEtrim\GeoEtrim\bin\x64\Debug\GeoEtrim.pdb
+D:\Topan\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2010.dll
+D:\Topan\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2012.dll
+D:\Topan\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2013.dll
+D:\Topan\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2015.dll
+D:\Topan\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2017.dll
+D:\Topan\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.UI.dll
+D:\Topan\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.UI.GL.dll
+D:\Topan\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.World.dll
+D:\Topan\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.Aruco.exe
+D:\Topan\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.CameraCapture.exe
+D:\Topan\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.FaceDetection.exe
+D:\Topan\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.FeatureMatching.exe
+D:\Topan\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.FeatureMatching.vshost.exe
+D:\Topan\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.HelloWorld.exe
+D:\Topan\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.LicensePlateRecognition.exe
+D:\Topan\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.MotionDetection.exe
+D:\Topan\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.OCR.exe
+D:\Topan\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.PedestrianDetection.exe
+D:\Topan\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.PlanarSubdivision.exe
+D:\Topan\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.ShapeDetection.exe
+D:\Topan\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.Simple3DReconstruction.exe
+D:\Topan\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.TrafficSignRecognition.exe
+D:\Topan\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.VideoSurveilance.exe
+D:\Topan\GeoEtrim\GeoEtrim\bin\x64\Debug\gdalconst_csharp.dll
+D:\Topan\GeoEtrim\GeoEtrim\bin\x64\Debug\gdal_csharp.dll
+D:\Topan\GeoEtrim\GeoEtrim\bin\x64\Debug\ogr_csharp.dll
+D:\Topan\GeoEtrim\GeoEtrim\bin\x64\Debug\osr_csharp.dll
+D:\Topan\GeoEtrim\GeoEtrim\bin\x64\Debug\ZedGraph.dll
+D:\Topan\GeoEtrim\GeoEtrim\bin\x64\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+D:\Topan\GeoEtrim\GeoEtrim\bin\x64\Debug\OpenTK.GLControl.dll
+D:\Topan\GeoEtrim\GeoEtrim\bin\x64\Debug\OpenTK.dll
+D:\Topan\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.UI.xml
+D:\Topan\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.UI.GL.xml
+D:\Topan\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.World.xml
+D:\Topan\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.FeatureMatching.pdb
+D:\Topan\GeoEtrim\GeoEtrim\bin\x64\Debug\ZedGraph.xml
+D:\Topan\GeoEtrim\GeoEtrim\bin\x64\Debug\zh-CN\ZedGraph.resources.dll
+D:\Topan\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.csprojResolveAssemblyReference.cache
+D:\Topan\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.csproj.GeoEtrim.exe.config
+D:\Topan\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.About.resources
+D:\Topan\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.Form1.resources
+D:\Topan\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.formgcp.resources
+D:\Topan\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.GeoTrans.resources
+D:\Topan\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.message_form.resources
+D:\Topan\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.New_Canves.resources
+D:\Topan\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.open.resources
+D:\Topan\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.points_view.resources
+D:\Topan\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.processbarform.resources
+D:\Topan\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.Properties.Resources.resources
+D:\Topan\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.Register.resources
+D:\Topan\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.Terms.resources
+D:\Topan\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.text_read.resources
+D:\Topan\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.txt_points.resources
+D:\Topan\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.csproj.GenerateResource.Cache
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\OpenTK.GLControl.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\OpenTK.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.message_form.resources
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\ImageComboBox.dll
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\ImageComboBox.dll
+C:\Users\Tubitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.Empty_image.resources
+C:\Users\Hüseyin Topan\Dropbox\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\GeoEtrim.exe.config
+C:\Users\Hüseyin Topan\Dropbox\ortak\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.exe
+C:\Users\Hüseyin Topan\Dropbox\ortak\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.pdb
+C:\Users\Hüseyin Topan\Dropbox\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\cvextern.dll
+C:\Users\Hüseyin Topan\Dropbox\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\msvcp140.dll
+C:\Users\Hüseyin Topan\Dropbox\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\opencv_ffmpeg310_64.dll
+C:\Users\Hüseyin Topan\Dropbox\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\vcruntime140.dll
+C:\Users\Hüseyin Topan\Dropbox\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\GeoEtrim.exe
+C:\Users\Hüseyin Topan\Dropbox\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\GeoEtrim.pdb
+C:\Users\Hüseyin Topan\Dropbox\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2010.dll
+C:\Users\Hüseyin Topan\Dropbox\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2012.dll
+C:\Users\Hüseyin Topan\Dropbox\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2013.dll
+C:\Users\Hüseyin Topan\Dropbox\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2015.dll
+C:\Users\Hüseyin Topan\Dropbox\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2017.dll
+C:\Users\Hüseyin Topan\Dropbox\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.UI.dll
+C:\Users\Hüseyin Topan\Dropbox\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.UI.GL.dll
+C:\Users\Hüseyin Topan\Dropbox\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.World.dll
+C:\Users\Hüseyin Topan\Dropbox\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.Aruco.exe
+C:\Users\Hüseyin Topan\Dropbox\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.CameraCapture.exe
+C:\Users\Hüseyin Topan\Dropbox\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.FaceDetection.exe
+C:\Users\Hüseyin Topan\Dropbox\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.FeatureMatching.exe
+C:\Users\Hüseyin Topan\Dropbox\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.FeatureMatching.vshost.exe
+C:\Users\Hüseyin Topan\Dropbox\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.HelloWorld.exe
+C:\Users\Hüseyin Topan\Dropbox\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.LicensePlateRecognition.exe
+C:\Users\Hüseyin Topan\Dropbox\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.MotionDetection.exe
+C:\Users\Hüseyin Topan\Dropbox\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.OCR.exe
+C:\Users\Hüseyin Topan\Dropbox\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.PedestrianDetection.exe
+C:\Users\Hüseyin Topan\Dropbox\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.PlanarSubdivision.exe
+C:\Users\Hüseyin Topan\Dropbox\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.ShapeDetection.exe
+C:\Users\Hüseyin Topan\Dropbox\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.Simple3DReconstruction.exe
+C:\Users\Hüseyin Topan\Dropbox\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.TrafficSignRecognition.exe
+C:\Users\Hüseyin Topan\Dropbox\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.VideoSurveilance.exe
+C:\Users\Hüseyin Topan\Dropbox\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\gdalconst_csharp.dll
+C:\Users\Hüseyin Topan\Dropbox\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\gdal_csharp.dll
+C:\Users\Hüseyin Topan\Dropbox\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\ImageComboBox.dll
+C:\Users\Hüseyin Topan\Dropbox\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\ogr_csharp.dll
+C:\Users\Hüseyin Topan\Dropbox\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\osr_csharp.dll
+C:\Users\Hüseyin Topan\Dropbox\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\ZedGraph.dll
+C:\Users\Hüseyin Topan\Dropbox\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\Hüseyin Topan\Dropbox\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\OpenTK.GLControl.dll
+C:\Users\Hüseyin Topan\Dropbox\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\OpenTK.dll
+C:\Users\Hüseyin Topan\Dropbox\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.UI.xml
+C:\Users\Hüseyin Topan\Dropbox\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.UI.GL.xml
+C:\Users\Hüseyin Topan\Dropbox\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.World.xml
+C:\Users\Hüseyin Topan\Dropbox\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.FeatureMatching.pdb
+C:\Users\Hüseyin Topan\Dropbox\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\ZedGraph.xml
+C:\Users\Hüseyin Topan\Dropbox\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\zh-CN\ZedGraph.resources.dll
+C:\Users\Hüseyin Topan\Dropbox\ortak\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.csprojResolveAssemblyReference.cache
+C:\Users\Hüseyin Topan\Dropbox\ortak\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.csproj.GeoEtrim.exe.config
+C:\Users\Hüseyin Topan\Dropbox\ortak\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.About.resources
+C:\Users\Hüseyin Topan\Dropbox\ortak\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.Empty_image.resources
+C:\Users\Hüseyin Topan\Dropbox\ortak\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.Form1.resources
+C:\Users\Hüseyin Topan\Dropbox\ortak\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.formgcp.resources
+C:\Users\Hüseyin Topan\Dropbox\ortak\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.GeoTrans.resources
+C:\Users\Hüseyin Topan\Dropbox\ortak\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.message_form.resources
+C:\Users\Hüseyin Topan\Dropbox\ortak\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.New_Canves.resources
+C:\Users\Hüseyin Topan\Dropbox\ortak\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.open.resources
+C:\Users\Hüseyin Topan\Dropbox\ortak\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.points_view.resources
+C:\Users\Hüseyin Topan\Dropbox\ortak\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.processbarform.resources
+C:\Users\Hüseyin Topan\Dropbox\ortak\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.Properties.Resources.resources
+C:\Users\Hüseyin Topan\Dropbox\ortak\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.Register.resources
+C:\Users\Hüseyin Topan\Dropbox\ortak\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.Terms.resources
+C:\Users\Hüseyin Topan\Dropbox\ortak\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.text_read.resources
+C:\Users\Hüseyin Topan\Dropbox\ortak\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.txt_points.resources
+C:\Users\Hüseyin Topan\Dropbox\ortak\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.csproj.GenerateResource.Cache
+C:\Users\Tubitakpc\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\GeoEtrim.exe.config
+C:\Users\Tubitakpc\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.exe
+C:\Users\Tubitakpc\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.pdb
+C:\Users\Tubitakpc\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\cvextern.dll
+C:\Users\Tubitakpc\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\msvcp140.dll
+C:\Users\Tubitakpc\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\opencv_ffmpeg310_64.dll
+C:\Users\Tubitakpc\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\vcruntime140.dll
+C:\Users\Tubitakpc\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\GeoEtrim.exe
+C:\Users\Tubitakpc\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\GeoEtrim.pdb
+C:\Users\Tubitakpc\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2010.dll
+C:\Users\Tubitakpc\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2012.dll
+C:\Users\Tubitakpc\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2013.dll
+C:\Users\Tubitakpc\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2015.dll
+C:\Users\Tubitakpc\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2017.dll
+C:\Users\Tubitakpc\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.UI.dll
+C:\Users\Tubitakpc\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.UI.GL.dll
+C:\Users\Tubitakpc\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.World.dll
+C:\Users\Tubitakpc\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.Aruco.exe
+C:\Users\Tubitakpc\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.CameraCapture.exe
+C:\Users\Tubitakpc\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.FaceDetection.exe
+C:\Users\Tubitakpc\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.FeatureMatching.exe
+C:\Users\Tubitakpc\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.FeatureMatching.vshost.exe
+C:\Users\Tubitakpc\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.HelloWorld.exe
+C:\Users\Tubitakpc\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.LicensePlateRecognition.exe
+C:\Users\Tubitakpc\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.MotionDetection.exe
+C:\Users\Tubitakpc\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.OCR.exe
+C:\Users\Tubitakpc\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.PedestrianDetection.exe
+C:\Users\Tubitakpc\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.PlanarSubdivision.exe
+C:\Users\Tubitakpc\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.ShapeDetection.exe
+C:\Users\Tubitakpc\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.Simple3DReconstruction.exe
+C:\Users\Tubitakpc\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.TrafficSignRecognition.exe
+C:\Users\Tubitakpc\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.VideoSurveilance.exe
+C:\Users\Tubitakpc\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\gdalconst_csharp.dll
+C:\Users\Tubitakpc\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\gdal_csharp.dll
+C:\Users\Tubitakpc\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\ImageComboBox.dll
+C:\Users\Tubitakpc\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\ogr_csharp.dll
+C:\Users\Tubitakpc\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\osr_csharp.dll
+C:\Users\Tubitakpc\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\ZedGraph.dll
+C:\Users\Tubitakpc\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\Tubitakpc\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\OpenTK.GLControl.dll
+C:\Users\Tubitakpc\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\OpenTK.dll
+C:\Users\Tubitakpc\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.UI.xml
+C:\Users\Tubitakpc\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.UI.GL.xml
+C:\Users\Tubitakpc\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.World.xml
+C:\Users\Tubitakpc\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.FeatureMatching.pdb
+C:\Users\Tubitakpc\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\ZedGraph.xml
+C:\Users\Tubitakpc\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\zh-CN\ZedGraph.resources.dll
+C:\Users\Tubitakpc\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.csprojResolveAssemblyReference.cache
+C:\Users\Tubitakpc\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.csproj.GeoEtrim.exe.config
+C:\Users\Tubitakpc\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.About.resources
+C:\Users\Tubitakpc\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.Empty_image.resources
+C:\Users\Tubitakpc\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.Form1.resources
+C:\Users\Tubitakpc\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.formgcp.resources
+C:\Users\Tubitakpc\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.GeoTrans.resources
+C:\Users\Tubitakpc\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.message_form.resources
+C:\Users\Tubitakpc\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.New_Canves.resources
+C:\Users\Tubitakpc\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.open.resources
+C:\Users\Tubitakpc\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.points_view.resources
+C:\Users\Tubitakpc\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.processbarform.resources
+C:\Users\Tubitakpc\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.Properties.Resources.resources
+C:\Users\Tubitakpc\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.Register.resources
+C:\Users\Tubitakpc\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.Terms.resources
+C:\Users\Tubitakpc\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.text_read.resources
+C:\Users\Tubitakpc\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.txt_points.resources
+C:\Users\Tubitakpc\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.csproj.GenerateResource.Cache
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\bin\x64\Debug\ImageComboBox.dll
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\ortak\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.Empty_image.resources
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.Empty_image.resources
+C:\Users\Hüseyin Topan\Desktop\GeoEtrim\GeoEtrim\bin\x64\Debug\GeoEtrim.exe.config
+C:\Users\Hüseyin Topan\Desktop\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.exe
+C:\Users\Hüseyin Topan\Desktop\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.pdb
+C:\Users\Hüseyin Topan\Desktop\GeoEtrim\GeoEtrim\bin\x64\Debug\cvextern.dll
+C:\Users\Hüseyin Topan\Desktop\GeoEtrim\GeoEtrim\bin\x64\Debug\msvcp140.dll
+C:\Users\Hüseyin Topan\Desktop\GeoEtrim\GeoEtrim\bin\x64\Debug\opencv_ffmpeg310_64.dll
+C:\Users\Hüseyin Topan\Desktop\GeoEtrim\GeoEtrim\bin\x64\Debug\vcruntime140.dll
+C:\Users\Hüseyin Topan\Desktop\GeoEtrim\GeoEtrim\bin\x64\Debug\GeoEtrim.exe
+C:\Users\Hüseyin Topan\Desktop\GeoEtrim\GeoEtrim\bin\x64\Debug\GeoEtrim.pdb
+C:\Users\Hüseyin Topan\Desktop\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2010.dll
+C:\Users\Hüseyin Topan\Desktop\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2012.dll
+C:\Users\Hüseyin Topan\Desktop\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2013.dll
+C:\Users\Hüseyin Topan\Desktop\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2015.dll
+C:\Users\Hüseyin Topan\Desktop\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2017.dll
+C:\Users\Hüseyin Topan\Desktop\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.UI.dll
+C:\Users\Hüseyin Topan\Desktop\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.UI.GL.dll
+C:\Users\Hüseyin Topan\Desktop\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.World.dll
+C:\Users\Hüseyin Topan\Desktop\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.Aruco.exe
+C:\Users\Hüseyin Topan\Desktop\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.CameraCapture.exe
+C:\Users\Hüseyin Topan\Desktop\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.FaceDetection.exe
+C:\Users\Hüseyin Topan\Desktop\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.FeatureMatching.exe
+C:\Users\Hüseyin Topan\Desktop\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.FeatureMatching.vshost.exe
+C:\Users\Hüseyin Topan\Desktop\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.HelloWorld.exe
+C:\Users\Hüseyin Topan\Desktop\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.LicensePlateRecognition.exe
+C:\Users\Hüseyin Topan\Desktop\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.MotionDetection.exe
+C:\Users\Hüseyin Topan\Desktop\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.OCR.exe
+C:\Users\Hüseyin Topan\Desktop\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.PedestrianDetection.exe
+C:\Users\Hüseyin Topan\Desktop\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.PlanarSubdivision.exe
+C:\Users\Hüseyin Topan\Desktop\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.ShapeDetection.exe
+C:\Users\Hüseyin Topan\Desktop\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.Simple3DReconstruction.exe
+C:\Users\Hüseyin Topan\Desktop\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.TrafficSignRecognition.exe
+C:\Users\Hüseyin Topan\Desktop\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.VideoSurveilance.exe
+C:\Users\Hüseyin Topan\Desktop\GeoEtrim\GeoEtrim\bin\x64\Debug\gdalconst_csharp.dll
+C:\Users\Hüseyin Topan\Desktop\GeoEtrim\GeoEtrim\bin\x64\Debug\gdal_csharp.dll
+C:\Users\Hüseyin Topan\Desktop\GeoEtrim\GeoEtrim\bin\x64\Debug\ImageComboBox.dll
+C:\Users\Hüseyin Topan\Desktop\GeoEtrim\GeoEtrim\bin\x64\Debug\ogr_csharp.dll
+C:\Users\Hüseyin Topan\Desktop\GeoEtrim\GeoEtrim\bin\x64\Debug\osr_csharp.dll
+C:\Users\Hüseyin Topan\Desktop\GeoEtrim\GeoEtrim\bin\x64\Debug\ZedGraph.dll
+C:\Users\Hüseyin Topan\Desktop\GeoEtrim\GeoEtrim\bin\x64\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\Hüseyin Topan\Desktop\GeoEtrim\GeoEtrim\bin\x64\Debug\OpenTK.GLControl.dll
+C:\Users\Hüseyin Topan\Desktop\GeoEtrim\GeoEtrim\bin\x64\Debug\OpenTK.dll
+C:\Users\Hüseyin Topan\Desktop\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.UI.xml
+C:\Users\Hüseyin Topan\Desktop\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.UI.GL.xml
+C:\Users\Hüseyin Topan\Desktop\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.World.xml
+C:\Users\Hüseyin Topan\Desktop\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.FeatureMatching.pdb
+C:\Users\Hüseyin Topan\Desktop\GeoEtrim\GeoEtrim\bin\x64\Debug\ZedGraph.xml
+C:\Users\Hüseyin Topan\Desktop\GeoEtrim\GeoEtrim\bin\x64\Debug\zh-CN\ZedGraph.resources.dll
+C:\Users\Hüseyin Topan\Desktop\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.csprojResolveAssemblyReference.cache
+C:\Users\Hüseyin Topan\Desktop\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.csproj.GeoEtrim.exe.config
+C:\Users\Hüseyin Topan\Desktop\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.About.resources
+C:\Users\Hüseyin Topan\Desktop\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.Empty_image.resources
+C:\Users\Hüseyin Topan\Desktop\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.Form1.resources
+C:\Users\Hüseyin Topan\Desktop\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.formgcp.resources
+C:\Users\Hüseyin Topan\Desktop\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.GeoTrans.resources
+C:\Users\Hüseyin Topan\Desktop\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.message_form.resources
+C:\Users\Hüseyin Topan\Desktop\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.New_Canves.resources
+C:\Users\Hüseyin Topan\Desktop\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.open.resources
+C:\Users\Hüseyin Topan\Desktop\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.points_view.resources
+C:\Users\Hüseyin Topan\Desktop\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.processbarform.resources
+C:\Users\Hüseyin Topan\Desktop\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.Properties.Resources.resources
+C:\Users\Hüseyin Topan\Desktop\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.Register.resources
+C:\Users\Hüseyin Topan\Desktop\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.Terms.resources
+C:\Users\Hüseyin Topan\Desktop\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.text_read.resources
+C:\Users\Hüseyin Topan\Desktop\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.txt_points.resources
+C:\Users\Hüseyin Topan\Desktop\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.csproj.GenerateResource.Cache
+D:\Topan\GeoEtrim\GeoEtrim\bin\x64\Debug\ImageComboBox.dll
+D:\Topan\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.Empty_image.resources
+C:\Users\Yunus Emre ELKAR\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\alglibnet2.dll
+C:\Users\tübitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\cvextern.dll
+C:\Users\tübitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\msvcp140.dll
+C:\Users\tübitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\opencv_ffmpeg310_64.dll
+C:\Users\tübitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\vcruntime140.dll
+C:\Users\tübitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\GeoEtrim.exe.config
+C:\Users\tübitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\GeoEtrim.exe
+C:\Users\tübitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\GeoEtrim.pdb
+C:\Users\tübitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\gdalconst_csharp.dll
+C:\Users\tübitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\gdal_csharp.dll
+C:\Users\tübitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\ImageComboBox.dll
+C:\Users\tübitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\ogr_csharp.dll
+C:\Users\tübitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\osr_csharp.dll
+C:\Users\tübitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\tübitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\OpenTK.GLControl.dll
+C:\Users\tübitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\OpenTK.dll
+C:\Users\tübitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.UI.xml
+C:\Users\tübitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.UI.GL.xml
+C:\Users\tübitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.World.xml
+C:\Users\tübitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.FeatureMatching.pdb
+C:\Users\tübitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\ZedGraph.xml
+C:\Users\tübitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\zh-CN\ZedGraph.resources.dll
+C:\Users\tübitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.csprojAssemblyReference.cache
+C:\Users\tübitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.exe.config
+C:\Users\tübitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.About.resources
+C:\Users\tübitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.Empty_image.resources
+C:\Users\tübitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.Form1.resources
+C:\Users\tübitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.formgcp.resources
+C:\Users\tübitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.message_form.resources
+C:\Users\tübitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.New_Canves.resources
+C:\Users\tübitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.open.resources
+C:\Users\tübitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.points_view.resources
+C:\Users\tübitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.processbarform.resources
+C:\Users\tübitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.Properties.Resources.resources
+C:\Users\tübitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.Register.resources
+C:\Users\tübitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.Terms.resources
+C:\Users\tübitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.text_read.resources
+C:\Users\tübitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.txt_points.resources
+C:\Users\tübitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.csproj.GenerateResource.cache
+C:\Users\tübitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.csproj.CoreCompileInputs.cache
+C:\Users\tübitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.csproj.CopyComplete
+C:\Users\tübitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.exe
+C:\Users\tübitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.pdb
+D:\c sharp\GeoEtrim\GeoEtrim\bin\x64\Debug\cvextern.dll
+D:\c sharp\GeoEtrim\GeoEtrim\bin\x64\Debug\msvcp140.dll
+D:\c sharp\GeoEtrim\GeoEtrim\bin\x64\Debug\opencv_ffmpeg310_64.dll
+D:\c sharp\GeoEtrim\GeoEtrim\bin\x64\Debug\vcruntime140.dll
+D:\c sharp\GeoEtrim\GeoEtrim\bin\x64\Debug\GeoEtrim.exe.config
+D:\c sharp\GeoEtrim\GeoEtrim\bin\x64\Debug\GeoEtrim.exe
+D:\c sharp\GeoEtrim\GeoEtrim\bin\x64\Debug\GeoEtrim.pdb
+D:\c sharp\GeoEtrim\GeoEtrim\bin\x64\Debug\gdalconst_csharp.dll
+D:\c sharp\GeoEtrim\GeoEtrim\bin\x64\Debug\gdal_csharp.dll
+D:\c sharp\GeoEtrim\GeoEtrim\bin\x64\Debug\ImageComboBox.dll
+D:\c sharp\GeoEtrim\GeoEtrim\bin\x64\Debug\ogr_csharp.dll
+D:\c sharp\GeoEtrim\GeoEtrim\bin\x64\Debug\osr_csharp.dll
+D:\c sharp\GeoEtrim\GeoEtrim\bin\x64\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+D:\c sharp\GeoEtrim\GeoEtrim\bin\x64\Debug\OpenTK.GLControl.dll
+D:\c sharp\GeoEtrim\GeoEtrim\bin\x64\Debug\OpenTK.dll
+D:\c sharp\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.UI.xml
+D:\c sharp\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.UI.GL.xml
+D:\c sharp\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.World.xml
+D:\c sharp\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.FeatureMatching.pdb
+D:\c sharp\GeoEtrim\GeoEtrim\bin\x64\Debug\ZedGraph.xml
+D:\c sharp\GeoEtrim\GeoEtrim\bin\x64\Debug\zh-CN\ZedGraph.resources.dll
+D:\c sharp\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.csprojAssemblyReference.cache
+D:\c sharp\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.exe.config
+D:\c sharp\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.About.resources
+D:\c sharp\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.Empty_image.resources
+D:\c sharp\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.Form1.resources
+D:\c sharp\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.formgcp.resources
+D:\c sharp\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.GeoTrans.resources
+D:\c sharp\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.message_form.resources
+D:\c sharp\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.New_Canves.resources
+D:\c sharp\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.open.resources
+D:\c sharp\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.points_view.resources
+D:\c sharp\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.processbarform.resources
+D:\c sharp\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.Properties.Resources.resources
+D:\c sharp\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.Register.resources
+D:\c sharp\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.Terms.resources
+D:\c sharp\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.text_read.resources
+D:\c sharp\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.txt_points.resources
+D:\c sharp\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.csproj.GenerateResource.cache
+D:\c sharp\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.csproj.CoreCompileInputs.cache
+D:\c sharp\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.csproj.CopyComplete
+D:\c sharp\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.exe
+D:\c sharp\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.pdb
+C:\Users\tübitakpc\Dropbox\tezim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.GeoTransform.resources
+C:\Users\Yunus\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\GeoEtrim.exe.config
+C:\Users\Yunus\Dropbox\tezim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.exe
+C:\Users\Yunus\Dropbox\tezim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.pdb
+C:\Users\Yunus\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\cvextern.dll
+C:\Users\Yunus\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\msvcp140.dll
+C:\Users\Yunus\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\opencv_ffmpeg310_64.dll
+C:\Users\Yunus\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\vcruntime140.dll
+C:\Users\Yunus\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\GeoEtrim.exe
+C:\Users\Yunus\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\GeoEtrim.pdb
+C:\Users\Yunus\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\gdalconst_csharp.dll
+C:\Users\Yunus\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\gdal_csharp.dll
+C:\Users\Yunus\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\ImageComboBox.dll
+C:\Users\Yunus\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\ogr_csharp.dll
+C:\Users\Yunus\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\osr_csharp.dll
+C:\Users\Yunus\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\Yunus\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\OpenTK.GLControl.dll
+C:\Users\Yunus\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\OpenTK.dll
+C:\Users\Yunus\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.UI.xml
+C:\Users\Yunus\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.UI.GL.xml
+C:\Users\Yunus\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\Emgu.CV.World.xml
+C:\Users\Yunus\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\Example.FeatureMatching.pdb
+C:\Users\Yunus\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\ZedGraph.xml
+C:\Users\Yunus\Dropbox\tezim\GeoEtrim\GeoEtrim\bin\x64\Debug\zh-CN\ZedGraph.resources.dll
+C:\Users\Yunus\Dropbox\tezim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.About.resources
+C:\Users\Yunus\Dropbox\tezim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.Empty_image.resources
+C:\Users\Yunus\Dropbox\tezim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.Form1.resources
+C:\Users\Yunus\Dropbox\tezim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.formgcp.resources
+C:\Users\Yunus\Dropbox\tezim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.GeoTransform.resources
+C:\Users\Yunus\Dropbox\tezim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.message_form.resources
+C:\Users\Yunus\Dropbox\tezim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.New_Canves.resources
+C:\Users\Yunus\Dropbox\tezim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.open.resources
+C:\Users\Yunus\Dropbox\tezim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.points_view.resources
+C:\Users\Yunus\Dropbox\tezim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.processbarform.resources
+C:\Users\Yunus\Dropbox\tezim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.Properties.Resources.resources
+C:\Users\Yunus\Dropbox\tezim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.Register.resources
+C:\Users\Yunus\Dropbox\tezim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.Terms.resources
+C:\Users\Yunus\Dropbox\tezim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.text_read.resources
+C:\Users\Yunus\Dropbox\tezim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.txt_points.resources
+C:\Users\Yunus\Dropbox\tezim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.csproj.GenerateResource.Cache
+C:\Users\yunus\Dropbox\tezim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.csprojAssemblyReference.cache
+C:\Users\yunus\Dropbox\tezim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.exe.config
+C:\Users\yunus\Dropbox\tezim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.csproj.CoreCompileInputs.cache
+C:\Users\yunus\Dropbox\tezim\GeoEtrim\GeoEtrim\obj\x64\Debug\GeoEtrim.csproj.CopyComplete

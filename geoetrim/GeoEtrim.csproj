@@ -1,0 +1,350 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{738FFB17-98F6-42C2-B5FD-48319E7B66D0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>GeoEtrim</RootNamespace>
+    <AssemblyName>GeoEtrim</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>false</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="alglibnet2">
+      <HintPath>..\..\..\..\..\..\alglib\net-core\alglibnet2.dll</HintPath>
+    </Reference>
+    <Reference Include="Emgu.CV.DebuggerVisualizers.VS2010">
+      <HintPath>C:\Emgu\emgucv-windesktop 3.1.0.2504\bin\Emgu.CV.DebuggerVisualizers.VS2010.dll</HintPath>
+    </Reference>
+    <Reference Include="Emgu.CV.DebuggerVisualizers.VS2012">
+      <HintPath>C:\Emgu\emgucv-windesktop 3.1.0.2504\bin\Emgu.CV.DebuggerVisualizers.VS2012.dll</HintPath>
+    </Reference>
+    <Reference Include="Emgu.CV.DebuggerVisualizers.VS2013">
+      <HintPath>C:\Emgu\emgucv-windesktop 3.1.0.2504\bin\Emgu.CV.DebuggerVisualizers.VS2013.dll</HintPath>
+    </Reference>
+    <Reference Include="Emgu.CV.DebuggerVisualizers.VS2015">
+      <HintPath>C:\Emgu\emgucv-windesktop 3.1.0.2504\bin\Emgu.CV.DebuggerVisualizers.VS2015.dll</HintPath>
+    </Reference>
+    <Reference Include="Emgu.CV.DebuggerVisualizers.VS2017">
+      <HintPath>C:\Emgu\emgucv-windesktop 3.1.0.2504\bin\Emgu.CV.DebuggerVisualizers.VS2017.dll</HintPath>
+    </Reference>
+    <Reference Include="Emgu.CV.UI">
+      <HintPath>C:\Emgu\emgucv-windesktop 3.1.0.2504\bin\Emgu.CV.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Emgu.CV.UI.GL">
+      <HintPath>C:\Emgu\emgucv-windesktop 3.1.0.2504\bin\Emgu.CV.UI.GL.dll</HintPath>
+    </Reference>
+    <Reference Include="Emgu.CV.World">
+      <HintPath>C:\Emgu\emgucv-windesktop 3.1.0.2504\bin\Emgu.CV.World.dll</HintPath>
+    </Reference>
+    <Reference Include="Example.Aruco">
+      <HintPath>C:\Emgu\emgucv-windesktop 3.1.0.2504\bin\Example.Aruco.exe</HintPath>
+    </Reference>
+    <Reference Include="Example.CameraCapture">
+      <HintPath>C:\Emgu\emgucv-windesktop 3.1.0.2504\bin\Example.CameraCapture.exe</HintPath>
+    </Reference>
+    <Reference Include="Example.FaceDetection">
+      <HintPath>C:\Emgu\emgucv-windesktop 3.1.0.2504\bin\Example.FaceDetection.exe</HintPath>
+    </Reference>
+    <Reference Include="Example.FeatureMatching">
+      <HintPath>C:\Emgu\emgucv-windesktop 3.1.0.2504\bin\Example.FeatureMatching.exe</HintPath>
+    </Reference>
+    <Reference Include="Example.FeatureMatching.vshost">
+      <HintPath>C:\Emgu\emgucv-windesktop 3.1.0.2504\bin\Example.FeatureMatching.vshost.exe</HintPath>
+    </Reference>
+    <Reference Include="Example.HelloWorld">
+      <HintPath>C:\Emgu\emgucv-windesktop 3.1.0.2504\bin\Example.HelloWorld.exe</HintPath>
+    </Reference>
+    <Reference Include="Example.LicensePlateRecognition">
+      <HintPath>C:\Emgu\emgucv-windesktop 3.1.0.2504\bin\Example.LicensePlateRecognition.exe</HintPath>
+    </Reference>
+    <Reference Include="Example.MotionDetection">
+      <HintPath>C:\Emgu\emgucv-windesktop 3.1.0.2504\bin\Example.MotionDetection.exe</HintPath>
+    </Reference>
+    <Reference Include="Example.OCR">
+      <HintPath>C:\Emgu\emgucv-windesktop 3.1.0.2504\bin\Example.OCR.exe</HintPath>
+    </Reference>
+    <Reference Include="Example.PedestrianDetection">
+      <HintPath>C:\Emgu\emgucv-windesktop 3.1.0.2504\bin\Example.PedestrianDetection.exe</HintPath>
+    </Reference>
+    <Reference Include="Example.PlanarSubdivision">
+      <HintPath>C:\Emgu\emgucv-windesktop 3.1.0.2504\bin\Example.PlanarSubdivision.exe</HintPath>
+    </Reference>
+    <Reference Include="Example.ShapeDetection">
+      <HintPath>C:\Emgu\emgucv-windesktop 3.1.0.2504\bin\Example.ShapeDetection.exe</HintPath>
+    </Reference>
+    <Reference Include="Example.Simple3DReconstruction">
+      <HintPath>C:\Emgu\emgucv-windesktop 3.1.0.2504\bin\Example.Simple3DReconstruction.exe</HintPath>
+    </Reference>
+    <Reference Include="Example.TrafficSignRecognition">
+      <HintPath>C:\Emgu\emgucv-windesktop 3.1.0.2504\bin\Example.TrafficSignRecognition.exe</HintPath>
+    </Reference>
+    <Reference Include="Example.VideoSurveilance">
+      <HintPath>C:\Emgu\emgucv-windesktop 3.1.0.2504\bin\Example.VideoSurveilance.exe</HintPath>
+    </Reference>
+    <Reference Include="gdalconst_csharp">
+      <HintPath>C:\GDAL\bin\gdal\csharp\gdalconst_csharp.dll</HintPath>
+    </Reference>
+    <Reference Include="gdal_csharp">
+      <HintPath>C:\GDAL\bin\gdal\csharp\gdal_csharp.dll</HintPath>
+    </Reference>
+    <Reference Include="ImageComboBox">
+      <HintPath>bin\Debug\new comboBox obje\ImageComboBox.dll</HintPath>
+    </Reference>
+    <Reference Include="ogr_csharp">
+      <HintPath>C:\GDAL\bin\gdal\csharp\ogr_csharp.dll</HintPath>
+    </Reference>
+    <Reference Include="osr_csharp">
+      <HintPath>C:\GDAL\bin\gdal\csharp\osr_csharp.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.DataVisualization" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="UIAutomationProvider" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="WindowsFormsIntegration" />
+    <Reference Include="ZedGraph">
+      <HintPath>C:\Emgu\emgucv-windesktop 3.1.0.2504\bin\ZedGraph.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="About.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="About.Designer.cs">
+      <DependentUpon>About.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Empty_image.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Empty_image.Designer.cs">
+      <DependentUpon>Empty_image.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formgcp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formgcp.Designer.cs">
+      <DependentUpon>formgcp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GeoTransform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GeoTransform.Designer.cs">
+      <DependentUpon>GeoTransform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="message_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="message_form.Designer.cs">
+      <DependentUpon>message_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="New_Canves.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="New_Canves.Designer.cs">
+      <DependentUpon>New_Canves.cs</DependentUpon>
+    </Compile>
+    <Compile Include="open.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="open.Designer.cs">
+      <DependentUpon>open.cs</DependentUpon>
+    </Compile>
+    <Compile Include="points_view.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="points_view.Designer.cs">
+      <DependentUpon>points_view.cs</DependentUpon>
+    </Compile>
+    <Compile Include="processbarform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="processbarform.Designer.cs">
+      <DependentUpon>processbarform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Register.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Register.Designer.cs">
+      <DependentUpon>Register.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Terms.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Terms.Designer.cs">
+      <DependentUpon>Terms.cs</DependentUpon>
+    </Compile>
+    <Compile Include="text_read.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="text_read.Designer.cs">
+      <DependentUpon>text_read.cs</DependentUpon>
+    </Compile>
+    <Compile Include="txt_points.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="txt_points.Designer.cs">
+      <DependentUpon>txt_points.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Visual.cs" />
+    <EmbeddedResource Include="About.resx">
+      <DependentUpon>About.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Empty_image.resx">
+      <DependentUpon>Empty_image.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formgcp.resx">
+      <DependentUpon>formgcp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GeoTransform.resx">
+      <DependentUpon>GeoTransform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="message_form.resx">
+      <DependentUpon>message_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="New_Canves.resx">
+      <DependentUpon>New_Canves.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="open.resx">
+      <DependentUpon>open.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="points_view.resx">
+      <DependentUpon>points_view.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="processbarform.resx">
+      <DependentUpon>processbarform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Register.resx">
+      <DependentUpon>Register.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Terms.resx">
+      <DependentUpon>Terms.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="text_read.resx">
+      <DependentUpon>text_read.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="txt_points.resx">
+      <DependentUpon>txt_points.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\app.manifest">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="cvextern.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="gdalconst_csharp.dll" />
+    <Content Include="gdal_csharp.dll" />
+    <Content Include="msvcp140.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="ogr_csharp.dll" />
+    <Content Include="opencv_ffmpeg310_64.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="osr_csharp.dll" />
+    <Content Include="vcruntime140.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
